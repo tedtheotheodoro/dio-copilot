@@ -26,3 +26,7 @@ Para cumprir o desafio, realizei as seguintes etapas no Microsoft Copilot Studio
   **Observações**
   * **Pontos fortes**: A interface do Copilot Studio é bastante intuitiva e de fácil aprendizagem. Não foi difícil realizar as tarefas, uma vez que as ferramentas são de fácil acesso e bem visíveis na página inicial.
   * **Pontos fracos**: Infelizmente, a versão atual do Copilot Studio nos obriga a criar um domínio e uma conta business no Microsoft. Ambas as etapas são pagas e foram necessárias algumas etapas de verificação (uma delas exige o download do Microsoft Authentication). 
+
+## Link para o Projeto (Microsoft Copilot Studio)
+
+* [Link para o meu ambiente/projeto no Microsoft Copilot Studio](copilotstudio.microsoft.com/environments/Default-f25eeb17-154c-4a2c-9163-0406b02f9ee9/bots)
